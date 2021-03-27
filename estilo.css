@@ -16,12 +16,12 @@ main{
 }
 
 .info img {
-	border-radius: 100%;
-	border: 4px solid #ff0000;
+	border-radius: 50%;
+	border: 200px solid #ff0000;
 }
 
 img {
-	max-width: 100%;
+	max-width: 25%;
 }
 
 footer{
