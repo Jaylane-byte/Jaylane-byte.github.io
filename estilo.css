@@ -17,7 +17,7 @@ main{
 
 .info img {
 	border-radius: 50%;
-	border: 200px solid #ff0000;
+	border: 1px solid #ff0000;
 }
 
 img {
