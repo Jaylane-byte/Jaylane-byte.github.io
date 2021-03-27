@@ -17,11 +17,11 @@ main{
 
 .info img {
 	border-radius: 50%;
-	border: 1px solid #ff0000;
+	border: 200px solid #ff0000;
 }
 
 img {
-	max-width: 100%;
+	max-width: 25%;
 }
 
 footer{
